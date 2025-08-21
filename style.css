@@ -1,4 +1,19 @@
-body {
-   color:white;
+body{
+   color:gray;
    background:black;
+   margin: 0px;
+}
+
+header {
+   border:solid 2px gray;
+   padding: 20px;
+   font-size: 32px;
+   color: gray;
+}
+
+section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+
 }
